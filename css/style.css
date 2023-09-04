@@ -11,13 +11,13 @@
     
 }
 header {
-    background-color: rgb(72, 196, 196);
+    background-color: #407ABE;
     background-size: 30%;
     height: 130px;;
     background-image:url(../img/pattern.png)
     }
  h1 {
-    width: 80%%;
+    width: 80%;
     margin-left: 25%;
     margin-top: 2%;
  }   
@@ -89,6 +89,36 @@ td{
     height: 25px;
     padding-left: 20%;
 }
+h3 {
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.footer-image{
+    margin-top: 3%;
+    width: 250px;
+    height: 150px;
+   background-image: url(../img/monitor.jpg);
+   background-size: contain;
+   background-repeat: no-repeat;
+   margin-left: 25%;
+}
+.text{
+    color: white;
+    font-size: larger;
+    text-align:left;
+    
+    
+}
+.footer-image2{
+    margin-top: 1%;
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+   background-repeat: no-repeat;
+   margin-left: 25%;
+}
+
 
 
  
