@@ -17,7 +17,21 @@ header {
     background-image:url(../img/pattern.png)
     }
  h1 {
-    width: 60%;
-    margin-left: 30%;
+    width: 80%%;
+    margin-left: 25%;
     margin-top: 2%;
  }   
+
+ .fonti {
+    margin-left: 25%;
+ }
+ .colorato{
+    color: rgb(26, 187, 187);
+ }
+ .commento{
+    color: rgb(128, 128, 128,0.6);
+ }
+ .fototim{
+    margin-left: 25%;
+    margin-top: 8%;
+ }
