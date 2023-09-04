@@ -1,7 +1,7 @@
 * {
     margin:0;
     padding: 0;
-    box-sizing: border-box;
+    
 }
 /*parte iniziale*/
 .logo {
@@ -52,19 +52,43 @@ header {
  .lista{
     margin-left: 25%;
     margin-top: 2%;
+
+    /*css tabella*/
  }
  .tabella{
     
-    width: 60%;
+    width: 70%;
     margin-left: 24%;
     margin-top: 2%;
+    border-collapse: collapse;
+    margin-right: 10%;
+    
+    
  }
  .rigatabella1{
-    background-color:rgb(75, 148, 190);
-    height: 5%;
-    
- }
- th{
-    
+    background-color:rgb(65, 147, 194);
+    height:20px;
     color: white;
- }
+    font-size:medium;
+    padding-left: 20%;
+    
+}
+
+.rigatabella2{
+    background-color:rgb(125, 192, 231);
+    height: 25px;
+    padding-left: 20%;
+   
+}
+td{
+    width: 20%;
+}
+
+.rigatabella3{
+    background-color: white;
+    height: 25px;
+    padding-left: 20%;
+}
+
+
+ 
